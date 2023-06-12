@@ -1,0 +1,20 @@
+# History files
+.Rhistory
+.Rapp.history
+.Rproj.user
+
+
+# Session Data files
+.RData
+
+# User-specific files
+.Ruserdata
+
+# RStudio files
+.Rproj.user/
+
+# local folders
+/data
+
+# confidental data files
+*.csv
