@@ -15,6 +15,9 @@
 
 # local folders
 /data
+/images
+/nc_files
+/test_tif
 
 # confidental data files
 *.csv
